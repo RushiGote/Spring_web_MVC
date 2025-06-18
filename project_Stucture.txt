@@ -1,0 +1,17 @@
+src
+ └── main
+     ├── java
+     │   └── com.example.mvc
+     │       ├── controller
+     │       │    └── BookController.java
+     │       ├── service
+     │       │    └── BookService.java
+     │       ├── repo
+     │       │    └── BookRepository.java
+     │       ├── entity
+     │       │    └── Book.java
+     │       └── MvcApplication.java
+     └── resources
+         ├── templates
+         │    └── books.html
+         └── application.properties
