@@ -15,3 +15,6 @@ src
          ├── templates
          │    └── books.html
          └── application.properties
+
+//This is a project structure you can follow it
+
